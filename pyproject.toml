@@ -11,3 +11,9 @@ authors = ["AnushkaSonawane"]
 [tool.poetry.dependencies]
 python = ">=3.8,<3.10"
 pandas = "1.5.3"
+openai
+langchain
+streamlit 
+python-dotenv
+PyPDF2
+
